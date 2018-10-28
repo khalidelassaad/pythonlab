@@ -4,7 +4,7 @@ only move in two directions: right and down. How many possible paths are there f
 the robot?
 FOLLOW UP
 Imagine certain squares are “off limits”, such that the robot can not step on them.
-Design an algorithm to get all possible paths for the robot.
+Design an algorithm to get all possible paths for the robot. TESTING GIT COMMIT
 
 """
 
